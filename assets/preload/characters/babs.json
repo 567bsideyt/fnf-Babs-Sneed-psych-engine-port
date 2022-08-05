@@ -1,0 +1,110 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				25,
+				4
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "babs left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				-13
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "babs down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				50
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "babs up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-43,
+				5
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "babs right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "babs idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "babs idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				615,
+               174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "goback",
+			"indices": [],
+			"name": "babs goback"
+		},
+		{
+			"offsets": [
+				235, 184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "jumpin",
+			"indices": [],
+			"name": "babs jumpin"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/babs",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "babs_1",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		30,
+		0
+	],
+	"sing_duration": 3.5,
+	"scale": 1
+}

@@ -1,0 +1,85 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				19, 6
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bloom left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				7, -6
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bloom down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6, 6
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bloom up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-11, 3
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bloom right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "bloom idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "bloom idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bloom",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bloom_1",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		30,
+		0
+	],
+	"sing_duration": 3.5,
+	"scale": 1
+}
